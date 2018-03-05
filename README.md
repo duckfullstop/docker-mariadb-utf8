@@ -6,3 +6,6 @@ according to official MariaDB documentation.
 
 ## Usage
 See official documentation.
+
+## Version
+This package will generally track the current MariaDB latest version, but may be delayed (if I'm lazy). I'll probably write an autobuild script for this at some point.
