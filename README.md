@@ -8,4 +8,7 @@ according to official MariaDB documentation.
 See official documentation.
 
 ## Version
-This package will generally track the current MariaDB latest version, but may be delayed (if I'm lazy). I'll probably write an autobuild script for this at some point.
+This package will track the latest MariaDB version by use of a Repository Link.
+
+Current tags:
+  - 10.3 (latest)
